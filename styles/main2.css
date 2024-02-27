@@ -6,8 +6,8 @@ body {
     background-color: white;
     margin-top: 15px;
     margin-bottom: 15px;
-    top: padding 15px;
-    bottom: padding 15px;
+    padding-top:  15px;
+    padding-bottom:  15px;
     right: 1.5em;
     left: 1.5em;
     border: 1px solid black ;
@@ -41,7 +41,7 @@ main{
     margin-right: 2em;
     margin-left: 2em;
     margin-bottom: 1.5em;
-    border: 5px dashed style blue;
+    border: 5px dashed  blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding:0.5em;
@@ -52,7 +52,7 @@ main h3{
     margin-right: 2em;
     margin-left: 2em;
     margin-bottom: 1.5em;
-    border: 5px double style blue;
+    border: 5px double  blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
@@ -72,7 +72,7 @@ div {
     margin-right: 2em;
     margin-bottom: 0em;
     margin-left: 2em;
-    border: 5px dotted style blue;
+    border: 5px dotted blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
