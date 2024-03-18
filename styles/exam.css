@@ -38,7 +38,7 @@ body{
     margin:15px auto
 }
 article{
-    width: 20%;
+    width: 75%;
    column-count: 3;
    column-width: auto;
    float: left;
