@@ -12,11 +12,6 @@
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
-nav{
-    .line {
-        border-bottom: 1px solid #888;
-      }
-}
 
 ol{list-style-type: upper-roman;}
 aside ul{list-style-type: square;
