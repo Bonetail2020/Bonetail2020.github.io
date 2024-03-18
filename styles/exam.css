@@ -40,8 +40,5 @@ body{
 }
 article{
     width: 20%;
-    column-count: 3;
-    column-rule: 2px dotted blue;
-    column-gap: 2em;
-    column-span: all;
+   
 }
