@@ -43,4 +43,7 @@ article{
    column-count: 3;
    column-width: auto;
    float: left;
+   column-span: all;
+   column-rule: 2px dotted blue;
+   clear:left
 }
