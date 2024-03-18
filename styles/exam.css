@@ -57,3 +57,6 @@ article{
    column-rule: 2px dotted blue;
    clear:left
 }
+html{
+    background-color: lightblue;
+}
