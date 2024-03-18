@@ -1,67 +1,72 @@
-#nav_menu ul { list-style-type: none; }
-#nav_menu ul li { float: left; }
-#nav_menu ul li a {
-    text-align: center;
-    display: block;
-    width: 175px;
-    padding: 1em 0;     
-    text-decoration: none;
-    background-color: blue;
-    color: white;
-    font-weight: bold;
-    border-right: 2px solid white;
-   }
-#nav_menu ul li a.lastitem { border-right: none; }	
-#nav_menu ul li a.current { color: yellow; }
-nav{ 
-    border-bottom: 1px solid blue;
-  
-}
-
-
-article h2 {
-    color: blue ;
-}
-
-ol{list-style-type: upper-roman;}
-aside ul{list-style-type: square;}
-p::first-letter{
-    font-weight: bold;
-    font: italic;
-}
-aside{
-    width:20%;
-    float:right ;
-    background-color: lightblue;
-    padding-left: 10px;
-
-}
-body{
-    width: 95%;
-    margin:15px auto;
-    font-size: 100%;
-    width: 90%;
-    background-color: white;
-        padding-top:  15px;
-        padding-bottom:  15px;
-        padding-right: 1.5em;
-        padding-left: 1.5em;
-        border: 1px solid black ;
-        border-radius: 25px;
-        box-shadow: 5px 5px 0 0; 
-        
+#nav_menu ul {
+    list-style-type : none;
     }
-
-article{
-    width: 75%;
-   column-span: all;
-   column-rule: 2px dotted blue;
-   column-count: 3;
-    float: left;
-}
-html{
-    background-color: lightblue;
-}
-hr{
-    color: lightblue;
-}
+    #nav_menu ul li {
+    float : left;
+    }
+    #nav_menu ul li a {
+    text-align : center;
+    display : block;
+    width : 175px;
+    padding : 1em 0;
+    text-decoration : none;
+    background-color : blue;
+    color : white;
+    font-weight : bold;
+    border-right : 2px solid white;
+    }
+    #nav_menu ul li a.lastitem {
+    border-right : none;
+    }
+    #nav_menu ul li a.current {
+    color : yellow;
+    }
+    nav {
+    border-bottom : 1px solid blue;
+    }
+    article h2 {
+    color : blue;
+    }
+    ol {
+    list-style-type : upper-roman;
+    }
+    aside ul {
+    list-style-type : square;
+    }
+    p::first-letter {
+    font-weight : bold;
+    font : italic;
+    }
+    aside {
+    width : 20%;
+    float : right;
+    background-color : lightblue;
+    padding-left : 10px;
+    }
+    body {
+    width : 95%;
+    margin : 15px auto;
+    font-size : 100%;
+    width : 90%;
+    background-color : white;
+    padding-top : 15px;
+    padding-bottom : 15px;
+    padding-right : 1.5em;
+    padding-left : 1.5em;
+    border : black solid 1px;
+    border-radius : 25px;
+    box-shadow : 5px 5px 0 0;
+    }
+    article {
+    width : 75%;
+    column-span : all;
+    column-rule : 2px dotted blue;
+    column-count : 3;
+    float : left;
+    }
+    html {
+    background-color : lightblue;
+    }
+    hr {
+    color : lightblue;
+    }
