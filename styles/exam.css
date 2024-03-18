@@ -64,7 +64,7 @@
     column-span : all;
     column-rule : 2px dotted blue;
     column-count : 3;
-    float : left;
+ 
     }
     html {
     background-color : lightblue;
