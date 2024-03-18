@@ -14,7 +14,7 @@ body {
     border: 1px solid black ;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0; 
-    column-count: 3;
+
 }
 html {
     background-image: linear-gradient(to LEFT, white 0%, #facd8a 100%);
