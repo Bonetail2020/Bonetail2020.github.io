@@ -30,7 +30,7 @@ p::first-letter{
 }
 aside{
     width:20%;
-    float:right fixed;
+    float:right ;
     background-color: lightblue;
     padding-left: 10px;
 
