@@ -26,7 +26,6 @@ article h2 {
 ol{list-style-type: upper-roman;}
 aside ul{list-style-type: square;}
 p::first-letter{
-    font-style:  bold;
     font-weight: bold;
     font: italic;
 }
