@@ -42,4 +42,5 @@ article{
     width: 20%;
    column-count: 3;
    column-width: auto;
+   float: left;
 }
