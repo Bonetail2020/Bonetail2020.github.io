@@ -13,9 +13,14 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-#first{
-    font-style: italic;
+
+ol{list-style-type: upper-roman;}
+aside ul{list-style-type: square;}
+p::first-letter{
+    font-style: italic bold;
 }
-#first:first-letter {
-    text-transform: uppercase;
+aside{
+    width:20%;
+    float:right;
+    background-color:#ffebc6;
 }
