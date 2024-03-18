@@ -13,6 +13,9 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-p{
-    
+#first{
+    font-style: italic;
+}
+#first:first-letter {
+    text-transform: uppercase;
 }
