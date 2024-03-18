@@ -43,7 +43,20 @@
     background-color : lightblue;
     padding-left : 10px;
     }
-   
+    body {
+        width : 95%;
+        margin : 15px auto;
+        font-size : 100%;
+        width : 90%;
+        background-color : white;
+        padding-top : 15px;
+        padding-bottom : 15px;
+        padding-right : 1.5em;
+        padding-left : 1.5em;
+        border : black solid 1px;
+        border-radius : 25px;
+        box-shadow : 5px 5px 0 0;
+        }
     article {
     width : 75%;
     column-span : all;
