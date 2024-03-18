@@ -29,9 +29,11 @@ p::first-letter{
 }
 aside{
     width:20%;
-    float:right;
-    background-color:#ffebc6;
-   
+    float:right fixed;
+    background-color: lightblue;
+    column-count: 3;
+     padding-left: 20px;
+
 }
 body{
     width: 95%;
@@ -51,8 +53,6 @@ body{
 
 article{
     width: 75%;
-   column-count: 3;
-
    column-span: all;
    column-rule: 2px dotted blue;
 
