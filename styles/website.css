@@ -1,7 +1,7 @@
-head h1 {
-    margin-left: 50px;
+body h1 {
+    text-align: center;
 }
-article img{
+body img{
     margin-right: 10px;
     align-items: center;
 }
